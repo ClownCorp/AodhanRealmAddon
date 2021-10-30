@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "aodhan:yellow_balloon"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"LDL",
+			" S ",
+			" S "
+		],
+		"key": {
+			"L": {
+				"item": "minecraft:leather"
+			},
+			"D": {
+				"item": "minecraft:yellow_dye"
+			},
+			"S": {
+				"item": "minecraft:string"
+			}
+		},
+		"result": {
+			"item": "minecraft:balloon",
+			"data": 4,
+			"count": 2
+		}
+	}
+}

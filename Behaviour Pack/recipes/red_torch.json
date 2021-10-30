@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "aodhan:red_torch"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:torch",
+				"count": 1
+			},
+			{
+				"item": "minecraft:red_dye",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "minecraft:colored_torch_rg",
+			"data": 0,
+			"count": 1
+		}
+	}
+}

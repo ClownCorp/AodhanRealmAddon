@@ -1,0 +1,49 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"WhyIsCronTaken"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5"
+			]
+		}
+	},
+	"header": {
+		"name": "Aodhan Realm Addon BP",
+		"description": "Made exclusively for Parisland49's realm. v1.0: Released with Rhodite tool and armour set and some new torches. BP",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "1e50c1fc-4640-44d6-bd3f-33aa2cf947f0",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "7282232a-a3b9-4576-9d23-95e353be2e83",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "c1d8dd6d-5658-498d-836f-79c63eb6395d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

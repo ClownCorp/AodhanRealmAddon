@@ -1,0 +1,13 @@
+{
+    "format_version": "1.17.40",
+    "minecraft:item": {
+        "description": {
+            "identifier": "aodhan:rhodite",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": "rhodite",
+            "minecraft:render_offsets": "tools"
+        }
+    }
+}

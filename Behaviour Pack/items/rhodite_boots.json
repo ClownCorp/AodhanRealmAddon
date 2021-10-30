@@ -1,0 +1,39 @@
+{
+	"format_version": "1.17.40",
+	"minecraft:item": {
+		"description": {
+			"identifier": "aodhan:rhodite_boots"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 9,
+				"slot": "armor_feet"
+			},
+			"minecraft:display_name": {
+				"value": "Rhodite Boots"
+			},
+			"minecraft:durability": {
+				"max_durability": 546,
+				"damage_chance": {
+					"min": 60,
+					"max": 100
+				}
+			},
+			"minecraft:icon": {
+				"texture": "rhodite_boots"
+			},
+			"minecraft:render_offsets": "boots",
+			"minecraft:armor": {
+				"protection": 4
+			},
+			"minecraft:wearable": {
+				"slot": "slot.armor.feet"
+			},
+			"minecraft:creative_category": {
+				"category": "equipment",
+				"parent": "itemGroup.name.boots"
+			}
+		}
+	}
+}

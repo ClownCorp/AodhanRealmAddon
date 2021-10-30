@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "aodhan:light_blue_balloon"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"LDL",
+			" S ",
+			" S "
+		],
+		"key": {
+			"L": {
+				"item": "minecraft:leather"
+			},
+			"D": {
+				"item": "minecraft:light_blue_dye"
+			},
+			"S": {
+				"item": "minecraft:string"
+			}
+		},
+		"result": {
+			"item": "minecraft:balloon",
+			"data": 3,
+			"count": 2
+		}
+	}
+}

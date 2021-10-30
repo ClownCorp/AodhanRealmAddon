@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "aodhan:rhodite_leggings"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"RRR",
+			"R R",
+			"R R"
+		],
+		"key": {
+			"R": {
+				"item": "aodhan:rhodite"
+			},
+			"S": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": {
+			"item": "aodhan:rhodite_leggings"
+		}
+	}
+}

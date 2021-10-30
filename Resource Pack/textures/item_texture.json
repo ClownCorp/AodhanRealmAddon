@@ -1,0 +1,36 @@
+{
+	"resource_pack_name": "Aodhan Realm Addon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"rhodite": {
+			"textures": "textures/items/rhodite"
+		},
+		"rhodite_sword": {
+			"textures": "textures/items/rhodite_sword"
+		},
+		"rhodite_pickaxe": {
+			"textures": "textures/items/rhodite_pickaxe"
+		},
+		"rhodite_axe": {
+			"textures": "textures/items/rhodite_axe"
+		},
+		"rhodite_shovel": {
+			"textures": "textures/items/rhodite_shovel"
+		},
+		"rhodite_hoe": {
+			"textures": "textures/items/rhodite_hoe"
+		},
+		"rhodite_helmet": {
+			"textures": "textures/items/rhodite_helmet"
+		},
+		"rhodite_chestplate": {
+			"textures": "textures/items/rhodite_chestplate"
+		},
+		"rhodite_leggings": {
+			"textures": "textures/items/rhodite_leggings"
+		},
+		"rhodite_boots": {
+			"textures": "textures/items/rhodite_boots"
+		}
+	}
+}

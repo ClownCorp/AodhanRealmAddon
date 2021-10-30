@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "aodhan:rhodite_axe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"RR ",
+			"RS ",
+			" S "
+		],
+		"key": {
+			"R": {
+				"item": "aodhan:rhodite"
+			},
+			"S": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": {
+			"item": "aodhan:rhodite_axe"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "format_version": "1.17.40",
+    "minecraft:item": {
+        "description": {
+            "identifier": "aodhan:rhodite_chestplate",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "rhodite_chestplate",
+            "minecraft:render_offsets": "chestplates",
+            "minecraft:hover_text_color": "dark_gray"
+        }
+    }
+}
