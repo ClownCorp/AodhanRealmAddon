@@ -1,0 +1,14 @@
+{
+    "format_version": "1.17.40",
+    "minecraft:item": {
+        "description": {
+            "identifier": "aodhan:rhodite_helmet",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": "rhodite_helmet",
+            "minecraft:render_offsets": "helmets",
+            "minecraft:hover_text_color": "dark_gray"
+        }
+    }
+}

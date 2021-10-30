@@ -1,0 +1,11 @@
+{
+	"format_version": [1, 1, 0],
+	"aodhan:rhodite_ore": {
+		"textures": "rhodite_ore",
+		"sound": "stone"
+	},
+	"aodhan:deepslate_rhodite_ore": {
+		"textures": "deepslate_rhodite_ore",
+		"sound": "stone"
+	}
+}
